@@ -1,0 +1,1 @@
+No additional Arduino libraries required; uses Arduino core functions and standard math functions.
